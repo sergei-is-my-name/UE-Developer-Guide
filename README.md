@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sergei-is-my-name/UE-Developer-Guide">
-    <img src="images/ue-logo.png" alt="Logo" width="360" height="188">
+    <img src="images/Unreal_Engine_Logo.svg" alt="Logo" width="360" height="188">
   </a>
 
   <h3 align="center">UE Developer Guide</h3>
