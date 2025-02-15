@@ -209,6 +209,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[ue-logo]: https://img.shields.io/badge/Unreal_engine-blue?style=for-the-badge&logo=unrealengine&logoColor=black
+[ue-logo]: https://img.shields.io/badge/Unreal_engine-black?style=for-the-badge&logo=unrealengine&logoColor=white
 [UE-url]: https://dev.epicgames.com/documentation/en-us/unreal-engine
 
